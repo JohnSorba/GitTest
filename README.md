@@ -1,5 +1,3 @@
 # GitTest
 
-Uploading files through Git
-Today is the 5th of April. A new test for uploading from Visual Studio Code.
-It worked! Let's try again.
+Uploading files through Git. A uploaded directly from Visual Studio Code.
