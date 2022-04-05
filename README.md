@@ -1,3 +1,3 @@
 # GitTest
 
-Uploading files through Git. A uploaded directly from Visual Studio Code.
+Uploading files through GitHub SCM (Source Control Management). A uploaded directly from Visual Studio Code.
